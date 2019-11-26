@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/ultra/static/css/main.f56b5951.chunk.css",
+    "main.js": "/github.io/ultra/static/js/main.5b1db098.chunk.js",
+    "main.js.map": "/github.io/ultra/static/js/main.5b1db098.chunk.js.map",
+    "runtime-main.js": "/github.io/ultra/static/js/runtime-main.99b298a9.js",
+    "runtime-main.js.map": "/github.io/ultra/static/js/runtime-main.99b298a9.js.map",
+    "static/js/2.c724e416.chunk.js": "/github.io/ultra/static/js/2.c724e416.chunk.js",
+    "static/js/2.c724e416.chunk.js.map": "/github.io/ultra/static/js/2.c724e416.chunk.js.map",
+    "index.html": "/github.io/ultra/index.html",
+    "precache-manifest.fe6aa9c3099c046b68958f08ee74ca17.js": "/github.io/ultra/precache-manifest.fe6aa9c3099c046b68958f08ee74ca17.js",
+    "service-worker.js": "/github.io/ultra/service-worker.js",
+    "static/css/main.f56b5951.chunk.css.map": "/github.io/ultra/static/css/main.f56b5951.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b298a9.js",
+    "static/js/2.c724e416.chunk.js",
+    "static/css/main.f56b5951.chunk.css",
+    "static/js/main.5b1db098.chunk.js"
+  ]
+}
